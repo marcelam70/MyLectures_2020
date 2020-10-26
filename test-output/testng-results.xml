@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7457" started-at="2020-07-03T01:47:05Z" finished-at="2020-07-03T01:47:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7457" started-at="2020-07-03T01:47:05Z" finished-at="2020-07-03T01:47:13Z">
+      <class name="G3Lectures.Sel_51_TestNG_2">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:G3Lectures.Sel_51_TestNG_2@3796751b]" name="setUp" is-config="true" duration-ms="6333" started-at="2020-07-02T21:47:05Z" finished-at="2020-07-02T21:47:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="invalidCredentials()[pri:1, instance:G3Lectures.Sel_51_TestNG_2@3796751b]" name="invalidCredentials" duration-ms="1027" started-at="2020-07-02T21:47:12Z" description="invalid credentials" finished-at="2020-07-02T21:47:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidCredentials -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:G3Lectures.Sel_51_TestNG_2@3796751b]" name="tearDown" is-config="true" duration-ms="87" started-at="2020-07-02T21:47:13Z" finished-at="2020-07-02T21:47:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- G3Lectures.Sel_51_TestNG_2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
